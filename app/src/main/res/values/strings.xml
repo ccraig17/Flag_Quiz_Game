@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Flag Quiz Game</string>
+    <string name="flag_quiz_game">FLAG QUIZ GAME</string>
+    <string name="welcome_to_flag_quiz_game">Welcome To Flag Quiz Game</string>
+    <string name="correct_0">Correct: 0</string>
+    <string name="wrong_0">Wrong: 0</string>
+    <string name="empty">Empty</string>
+    <string name="question_1">Question: 1</string>
+    <string name="buttonA">Button A</string>
+    <string name="buttonB">Button B</string>
+    <string name="buttonC">Button C</string>
+    <string name="buttonD">Button D</string>
+    <string name="total_correct_answer_0">Total Correct Answer: 0</string>
+    <string name="total_wrong_answer_0">Total Wrong Answer: 0</string>
+    <string name="total_empty_answer_0">Total Empty Answer: 0</string>
+    <string name="results_0">Results: 0</string>
+    <string name="success_rate_0">Success Rate: 80%</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="quit_game">QUIT GAME</string>
+</resources>
